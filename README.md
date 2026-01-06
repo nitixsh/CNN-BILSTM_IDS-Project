@@ -8,3 +8,9 @@ echo "Notebooks" > notebooks/README.md
 git add .
 git commit -m "Created folder structure"
 git push origin main
+
+
+models/        → .h5 files
+data/          → sample data or dataset link
+src/           → training & evaluation scripts
+notebooks/     → Jupyter notebooks
