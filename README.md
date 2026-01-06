@@ -10,7 +10,11 @@ git commit -m "Created folder structure"
 git push origin main
 
 
-models/        → .h5 files
-data/          → sample data or dataset link
-src/           → training & evaluation scripts
-notebooks/     → Jupyter notebooks
+📂 Folder Structure Overview
+CNN-BILSTM_IDS-Project/
+│
+├── models/        → Trained deep learning models (.h5 files)
+├── data/          → Sample datasets or external dataset links
+├── src/           → Training and evaluation scripts
+├── notebooks/     → Jupyter notebooks for experimentation
+└── README.md
